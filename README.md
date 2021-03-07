@@ -24,13 +24,7 @@ If you are publishing research work, it is recommended to add a link to the exec
 ---
 <b>How to use:</b>
 
-1. Log in to a free Microsoft Azure Notebook account (you can use existing microsoft accounts such as your skype login).
+1. Install a Jupiter Notebook on your PC.
 
 2. Clone this notebook, load your own data (replace results.csv) and run the .ipynb on your own questionnaire data.
 The questionnaire can have a flexible number of questions.
-
-The computation happens on the Microsoft Cloud, therefore it can be run even from low powered mobile platforms.
-Microsoft Azure Notebook is also a great platform to work coraboratively and share the analysis with the community.
-
-Your data will not be used by Microsoft. For compliance of privacy regulations never upload personal or identifiable information.
-If you do, it will be your own responsibility.
